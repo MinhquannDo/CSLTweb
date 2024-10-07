@@ -1,0 +1,40 @@
+/*
+ RESET */
+ body {
+
+    margin:0px;
+    padding: 0px;
+
+ }
+ /* End reset */
+ .header_bar{
+    height: 30px;
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 1px solid #e5e5e5;
+ }
+ .container{
+
+    width: 1000px ;
+    height: 100%;
+    background-color: red;
+    margin: 0 auto;
+ }
+
+ .container table {
+   width:100%;
+ }
+ .container table tr td{
+   width: 33%;
+   white-space: nowrap ;
+   line-height: 20px;
+   vertical-align : middle;
+ }
+ .container img{
+   height: 16px;
+
+
+ }
+
+
+
